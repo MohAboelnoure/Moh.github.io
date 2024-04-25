@@ -17,7 +17,7 @@ main:
     image: ./assets/files/JEMS2023_2.jpg
     notes: Accepted
 
-  - title: BeMAGIC CONFERENCE IN TORINO – POST EVENT
+  - title: BeMAGIC CONFERENCE IN TORINO - POST EVENT
     conference_short: BeMAGIC
     conference: BeMAGIC CONFERENCE IN TORINO
     abstract: The BeMAGIC conference in Torino, entitled “Beyond Magnetoelectric Materials”, was successfully organized by the network ESRs (Early Stage Researchers). This event took place on 12-15 June 2023 at the Starhotel Majestic, Torino, Italy. The programme included 15 top-class experts in the magnetoelectric field, who delivered lectures on the following topics&#58; multiferroics, surface charging, magnetoionics and applications in healthcare, energy efficiency and cybersecurity.
