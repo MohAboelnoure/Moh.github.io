@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Project Geeker</title>
   
-  <subtitle>Song&#39;s Blog</subtitle>
+  <subtitle>Siwei&#39;s Blog</subtitle>
   <link href="https://songchen.science/blog/atom.xml" rel="self"/>
   
   <link href="https://songchen.science/blog/"/>
@@ -10,7 +10,7 @@
   <id>https://songchen.science/blog/</id>
   
   <author>
-    <name>Song Chen</name>
+    <name>Siwei Gu</name>
     
   </author>
   

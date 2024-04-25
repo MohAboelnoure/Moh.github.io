@@ -1,6 +1,6 @@
 main:
   - title: BeMAGIC Final Event - Post Event
-    authors: Song Chen
+    authors: Siwei Gu
     conference_short: BeMAGIC
     conference: BeMAGIC Final Event
     pdf: https://bemagic-etn.eu/images/files2023/BeMAGIC%20Final%20Event%20information%201.pdf
@@ -9,7 +9,7 @@ main:
     notes: 
 
   - title: Reversible and Non-volatile Magneto-ionic effect in W-CoFeB-MgO-HfO2 ultra-thin films with Perpendicular Anisotropy
-    authors: Song Chen, Elmer Monteblanco, Rohit Pachat, Liza Herrera Diez, Dafiné Ravelosona
+    authors: Siwei Gu, Elmer Monteblanco, Rohit Pachat, Liza Herrera Diez, Dafiné Ravelosona
     conference_short: JEMS
     conference: 13th Joint European Magnetic Symposia
     pdf: ./assets/files/JEMS2023_Song.pdf
