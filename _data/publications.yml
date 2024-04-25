@@ -1,11 +1,9 @@
 main:
 
-  - title: Multi-target electrochemical malaria aptasensor on flexible multielectrode arrays for detection in malaria parasite blood samples
-    authors: Gabriela Figueroa-Miranda, <strong>Siwei Gu</strong>, Marc Neis, Lei Zhou, Yuting Zhang, Young Lo, Julian Alexander Tanner, Andrea Kreidenweiss, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
+  - title: Mechanism of heavy metal ion biosorption by microalgal cells: A mathematic approach
+    authors: Siwei Gu, Christopher Q Lan
     conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/multi.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
+    page: https://www.sciencedirect.com/science/article/pii/S0304389421013005
     bibtex: ./assets/files/multi.txt
     image: ./assets/files/multi.jpg
     notes: Published
