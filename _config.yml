@@ -4,7 +4,7 @@ position: Ph.D.
 affiliation: University of Notre Dame
 subaffiliation: University of Ottawa
 affiliation_link: https://www.nd.edu/
-subaffiliation_link: http://wwww.uottawa.ca/en
+subaffiliation_link: http://www.uottawa.ca/en
 affiliation_logo: ./assets/img/spinion.svg
 email: sgu4@nd.edu
 email2: gusiwei007@gmail.com
@@ -13,7 +13,7 @@ address: 716 N Niles Ave, South Bend, In, USA
 # Search Engine Optimization (SEO)
 keywords: Siwei Gu, siwei gu, siweigu
 canonical: https://allengu007.github.io/#about-me
-description: Siwei Gu is a Postdoc reseracher at University of Notre Dmae and ECI. His research lies at using membrane separation and co-precipitation techniques for the removal of heavy metal ions, and the innovative use of microalgae as an adsorbent for heavy metal ion adsorption and removal.
+description:  Siwei Gu is a Postdoc reseracher at University of Notre Dmae and ECI. His research lies at using membrane separation and co-precipitation techniques for the removal of heavy metal ions, and the innovative use of microalgae as an adsorbent for heavy metal ion adsorption and removal.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -22,15 +22,15 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-cv_link: https://blog.songchen.science/de3ec0aa2234aa1e3ee275bbc715c6c9/CV.pdf
+cv_link: /workspaces/AllenGu007.github.io/assets/mpii_files/CV-Siwei Gu(Jan 2024).pdf
 google_scholar: https://scholar.google.com/citations?user=XqEc2IUAAAAJ&hl=en&oi=ao
-github_link: https://github.com/song-chen1/
+github_link: https://github.com/AllenGu007
 linkedin: https://www.linkedin.com/in/siwei-gu-4543a018b/
 twitter: 
-researchgate: https://www.researchgate.net/profile/Song-Chen-60
+researchgate: https://www.researchgate.net/profile/Siwei-Gu
 
 # Images 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
