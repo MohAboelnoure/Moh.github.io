@@ -6,15 +6,15 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+I am currently a Postdoc Reseracher at [University of Notre Dame](https://www.nd.edu/) and [Notre Dame Environmental Change Initiative (ND-ECI)](https://environmentalchange.nd.edu/), working under the mentorship of Dr. [Kyle Doudrick](https://engineering.nd.edu/faculty/kyle-doudrick/). I was graduate from University of Ottawa(https://www.uottawa.ca/en) in Chemical Engineering, with Dr. [Christopher Lan](https://www.uottawa.ca/faculty-engineering/department-chemical-and-biological-engineering/directory/christopher-lan). My reserach is particular emphasis on two key areas: the application of membrane separation and co-precipitation techniques for the removal of heavy metal ions & PFAS, and the innovative use of microalgae as an adsorbent for heavy metal ion & PFAS adsorption and removal.
 
 ## Research Interest:
 
-- **Ion-material Simulation:** SRIM, iradina, SDTrimSP, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Microalgae:** Cultivation, Nutruient removal, Harvesting
+- **Membrane:** Fabrication, Morphology, Flitration
+- **Heavy metal** Characterization, Removal, Migration
+- **PFAS** Regulation, Detection
+- **Neuromorphic Computing with Eviromental Engineering** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
   {% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
