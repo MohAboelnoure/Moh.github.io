@@ -1,6 +1,6 @@
 main:
 
-  - title: Mechanism of heavy metal ion biosorption by microalgal cells: A mathematic approach
+  - title: A mathematic approach
     authors: Siwei Gu, Christopher Q Lan
     conference_short: Adv. Mater. Interfaces
     conference: Advanced Materials Interfaces
@@ -10,8 +10,8 @@ main:
     image: ./assets/files/admi202270196-gra-0001-m.jpg
     notes: Published
 
-  - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
-    authors: Rohit Pachat, Djoudi Ourdani, Maria‐andromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Siwei Gu</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
+  - title: MagnetoIonics in Annealed W/CoFeB/HfO2 Thin Films
+    authors: Rohit Pachat, Djoudi Ourdani, Mariaandromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Siwei Gu</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
     conference_short: Adv. Mater. Interfaces
     conference: Advanced Materials Interfaces
     pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
