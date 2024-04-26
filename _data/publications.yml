@@ -1,31 +1,31 @@
 main:
 
-  - title: A mathematic approach
+  - title: Mechanism of heavy metal ion biosorption by microalgal cells: A mathematic approach
     authors: Siwei Gu, Christopher Q Lan
-    conference_short: Adv. Mater. Interfaces
-    conference: Advanced Materials Interfaces
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
+    conference_short: Journal of Hazardous Materials
+    conference: Journal of Hazardous Materials
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0304389423021593
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0304389423021593
     bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/admi202270196-gra-0001-m.jpg
     notes: Published
 
-  - title: MagnetoIonics in Annealed W/CoFeB/HfO2 Thin Films
-    authors: Rohit Pachat, Djoudi Ourdani, Mariaandromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Siwei Gu</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
-    conference_short: Adv. Mater. Interfaces
-    conference: Advanced Materials Interfaces
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
+  - title: Effects of culture pH on cell surface properties and biosorption of Pb (II), Cd (II), Zn (II) of green alga Neochloris oleoabundans
+    authors: Siwei Gu, Christopher Q Lan
+    conference_short: Chemical Engineering Journal
+    conference: Chemical Engineering Journal
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1385894723023100
+    page: https://www.sciencedirect.com/science/article/abs/pii/S1385894723023100
     bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/admi202270196-gra-0001-m.jpg
     notes: Published
 
-  - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
-    authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Siwei Gu</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/SSRN-id4328224.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+  - title: Chemical precipitation enabled UF and MF filtration for lead removal
+    authors: Zitong Xu, Siwei Gu, Dipak Rana, Takeshi Matsuura, Christopher Q Lan
+    conference_short: Journal of Water Process Engineering
+    conference: Journal of Water Process Engineering
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S221471442100074X
+    page: https://www.sciencedirect.com/science/article/abs/pii/S221471442100074X
     bibtex: ./assets/files/flexible.txt
     image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
     notes: Published
