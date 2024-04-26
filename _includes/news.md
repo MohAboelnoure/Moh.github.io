@@ -4,6 +4,7 @@
 
 <ul>
 
+<li><strong>[DEC. 2023]</strong> Got offer from University of Notre Dame</a></span></li>
 <li><strong>[DEC. 2023]</strong> Graduate from <span style="color:#e74d3c"><a href="https://www.uottawa.ca/en">University of Ottawa, Chemical Engineering </a></span></li>
 </div>
 </ul>
